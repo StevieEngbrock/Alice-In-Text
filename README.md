@@ -12,3 +12,6 @@ using the Alicebot data, but not be limited by the specifications of AIML.
 
 A text file is easily edited and the goal is to only need regular expressions and/or
 a fuzzy matcher to use the data in a bot.
+
+The project is still in it's beginning stages and hasn't even reach alpha yet
+Feel free to fork my project and do whatever you want with it
