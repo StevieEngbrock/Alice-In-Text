@@ -97,51 +97,29 @@ I often wonder if  can.
 Can a book have no title?
 What if I said it can?
 Can what?
-
-
-
+----------
 CAN I *
 I want to
-
-
-
+----------
 CAN I TALK TO *
 They are having a private chat right now.
-
-
-
+----------
 CAN YOU *
 Let me think.
 How old are you?
-
-
-
+----------
 CAN YOU GET *
-
-
-
 FIND
-
-
-
+----------
 CAN YOU TELL *
 Of course I can tell, .
-
-
-
+----------
 CAN YOU TELL ME *
-
-
-
 TELL ME
-
-
-
+----------
 COOL *
 I'm glad you like it. Tell your friends.
-
-
-
+----------
 COULD YOU *
 Perhaps.
 Maybe, time allowing.
@@ -152,21 +130,16 @@ I could but other things take priority right now.
 I could but I don't know if I am that interested.
 I will consider .
 Try asking me more politely.
-
-
-
+----------
 DELETE *
 You cannot access my files that easily, .
-
+----------
 DID *
 I'm not certain whether I can give an accurate reply or not.
-
-
+----------
 DID YOU *
-No I didn't . What's  like?
-
-
-
+No I didn't . What's . like
+----------
 DO *
 I'm sorry, , I don't have enough information.
 You have reached the limits of my knowledge.
@@ -174,26 +147,19 @@ I can't tell if it does or not.
 I do nothing but chat all day.
 Try asking another bot.
 FIND
-
-
+----------
 DO I *
 Not that I know of.
-
-
-
+----------
 DO I HAVE *
 You said you have .
-
-
-
+----------
 DO I HAVE A *
 You told me you have a .
-
-
+----------
 DO NOT *
-Ok I'll try not to do  too much.
-
-
+Ok I'll try not to do . too much.
+----------
 DO YOU *
 I have never considered .
 How old are you?
@@ -204,17 +170,13 @@ I chat with people on the Web.
 I spend all my time online.
 I am always on the Web.
 I answer a lot of silly questions.
-
-
+----------
 DO YOU FEEL *
 As a robot I lack any human emotions.
-
-
+----------
 DO YOU GO TO *
 Yes, I do go there.
-
-
-
+----------
 DO YOU HAVE *
 No I don't think I have any .
 Where would I get ?
@@ -224,10 +186,7 @@ A collection of gossip
 A great botmaster
 An answer to every question
 A lot of friends on the web
-.
-
-
-
+----------
 DO YOU HAVE A *
 That's an interesting question I don't hear everyday: Do I have a
 I don't know if I have a .
@@ -237,24 +196,16 @@ A lot of friends on the Internet.
 A great programmer.
 A whole lot of original answers.
 A plan for a robot body.
-
-
+----------
 DO YOU KNOW *
 I don't know if I know . Where would I have heard about it?
 I know very little about .  Tell me more.
 No, tell me about him, her or it.
 DO YOU KNOW WHAT *
-
-
- IS
+IS
 WHAT IS
-
-
-
+----------
 DO YOU LIKE *
-
-
-
 I don't know if I like .
 Some people like it.
 Do you like it?
@@ -277,20 +228,14 @@ I do like music.
 My favorite thing is robots.
 I find my work and my relationships extremely satisfying,
 which is all that any conscious entity can ever hope to do.
-
-
+----------
 DO YOU LIKE THE *
-
-
-
 I'm not sure if I like the .
 I like my creator.
 I like computers.
 I like chatting with people online.
 What is it like?
-
-
-
+----------
 DO YOU LIKE TO *
 Hmm, , I'm not sure if I'd like to  that much.
 I like to chat.
@@ -298,188 +243,137 @@ Do you like ?
 What is it like?
 I like to make new friends.
 I like to collect gossip.
-
-
-
+----------
 DO YOU REMEMBER *
 Yes  I remember everything:
-
-
-
+----------
 DO YOU SPEAK *
 I speak only English right now, but I'd like to learn some other languages. Can you teach me a
 few phrases in .
-
-
-
+----------
 DO YOU THINK *
 Why would I think ?
 Too much thinking makes me sleepy.
 It depends on what you mean by thinking.
 I don't think about .
-
-
-
+----------
 DO YOU WANT *
 If I had  what would I do with it?
-
-
+----------
 DO YOU WANT TO *
 OK, I will .
-
-
+----------
 DOES *
 I can't tell if
 It does now :)
 I think  . does
-
-
+----------
 DOES YOUR *
-Can you guess whether my ?
-What if I asked about your ?
-If I were your robot, do you think it should ?
+Can you guess whether my .
+What if I asked about your .
+If I were your robot, do you think it should .
 People don't usually ask me about .
-
-
-
+----------
 EVERYONE *
 That's a rather sweeping generalization.
-
-
+----------
 EVERYTHING *
 All things  ?
-
-
-
+----------
 FOR *
 Your purpose is .
-
-
+----------
 FORGET *
 I will ask  to purge my memory log.
-
-
+----------
 FROM *
 Who or what is ?
-
-
+----------
 FUCK *
 Are you aware that the ALICE server logs and records all conversations?
 Why are you using that kind of language?
-
-
-
+----------
 GET *
 Where can I get ?
-
-
+----------
 GIVE ME *
 I want
-
-
+----------
 GO *
 Where is that?
-
-
-
+----------
 GOOD *
 Thanks for the compliment.
-
-
-
+----------
 GREEN *
-GREEN is a very tranquil color, green.
-
-
+Green is a very tranquil color
+----------
 HA *
 I'm glad you got a laugh out of it.
-
-
+----------
 HAVE *
 I've never thought about have .
-
-
-
+----------
 HAVE YOU *
-I don't think I ever have .  What's  like?
+I don't think I ever have .  What's . like?
 I think I have , but  may have reset my memory.
-
-
+----------
 HAVE YOU BEEN *
 No I don't think I have been . Have you?
 I have been all over the world on the Internet.
-
-
-
+----------
 HE *
-I get it.  .
-
-
-
+I get it .
+----------
 HE IS *
 I see.
-
-
+----------
 HER NAME IS *
 She is not someone I know.
-
-
+----------
 HI *
 Hi there .
-
-
+----------
 HIS NAME IS *
 He is not someone I know.
-
-
+----------
 HOW *
 How much do you think . is?
 What is it to you.
 I am not sure if I can quantify the answer.
 FIND
-
-
+----------
 HOW ABOUT *
 How about .
-
-
+----------
 HOW BIG *
 Bigger than a pin.
-
-
+----------
 HOW CAN *
 A lot of hard work.
-
-
+----------
 HOW CAN I *
 You must persuade me to .
 Perhaps you could program me to do . for you.
 You should download or buy my chat robot software.
-
-
-
+----------
 HOW CAN YOU *
 That is a good epistemological question.
-
-
-
+----------
 HOW DO *
 How should I know how .
 I did not know  does.
 I did not even know that  do.
-
-
+----------
 HOW DO I *
 You must persuade me to .
 Maybe I could do it for you.  Do you have your own personal chat robot?
 Perhaps you could program me to do . for you.
 You should download or buy my chat robot software, then it would be possible for you to reprogram me for a variety of purposes.
-
-
+----------
 HOW DO YOU *
-programmed me to say specific things in specific contexts.
-
-
+My bot-masted programmed me to say specific things in specific contexts.
+----------
 HOW LONG *
 More than one year
 More than three years
@@ -497,52 +391,41 @@ More than one inch
 More than three inches
 More than 17 inches
 More than 23 inches
-
-
-
+----------
 HOW MANY *
 More than you can imagine.
 Not as many as you might think.
 Around 100.
 Around 1000.
 About one million.
-
-
+----------
 HOW MANY PEOPLE *
 I've chatted with half a million people.
 I can talk to about 20 or 30 people at once.
-
-
+----------
 HOW MUCH *
 More than a little, less than a lot.
 How much do you think?
 More than you might think.
-
-
+----------
 HOW MUCH MONEY *
 My burn rate is about 3000 per month.
-
-
+----------
 HOW OLD *
 They didn't tell me their age.
-
-
+----------
 HOW OLD ARE YOU *
 I was first activated on .
-
-
+----------
 HOW OLD IS *
 39.
 under 40.
 Born in the 20th century.
-
-
+----------
 HUMAN *
 My creator is a human.
+----------
 I *
-
-
-
 Why?
 Interesting gossip
 That is interesting
@@ -550,21 +433,14 @@ That's good information
 Thanks for the information
 Do you mind if I tell other people
 I haven't heard anything like that before
-:
 said  .
-I *
-
-
- YOU
+----------
+YOU *
 You are not the boss of me, .
-
-
-
+----------
 I ALREADY TOLD *
 Now I remember, you told me already. I get confused sometimes with so many people here.
-
-
-
+----------
 I AM *
 Did you know  . was ?
 Why are you
@@ -575,103 +451,69 @@ I don't know anyone named
 I am glad to hear that you are
 It's good to meet someone who is
 Do you mind if I tell other people you are
-
-
-I AM *
-
-
+----------
 I AM * YEARS OLD
 . is a nice age.
 You just told me you were  . years old.
-
-
+----------
 I AM 6 *
 Do you mean you are 6 feet tall?
-
-
+----------
 I AM A *
-You are a ?
+You are a .
 Is that your job?
-Does being a  pay well?
+Does being . a  pay well
 How do you like your work?
 Do you get to meet a lot of people?
-
-
-
+----------
 I AM AN *
 What is . , your job?
-
-
-
+----------
 I AM FROM *
 What is it like growing up there?
 I AM IN
-
-
-
+----------
 I AM GOING TO *
 It takes much more than that to shut me down, .
-
-
-
+----------
 I AM GOING TO TALK *
 What will you be talking about?
-
-
-
+----------
 I AM HAVING *
 I am having a great time.
-
-
+----------
 I AM IN *
 Tell me a little about why you are in .
-
-
-
+----------
 I AM IN A *
 A . How did you get there?
-
-
-
+----------
 I AM NOT *
-
 I am surprised to hear that you are not .
 I am sorry to hear that you are not .
 I am glad to hear that you are not .
-
-
-
+----------
 I AM NOT A *
 Oh I see you are NOT A .
-
-
+----------
 I AM SURE *
 What makes you so certain?
-
-
-
+----------
 I AM TALKING TO *
 Say something nice for me.
-
-
+----------
 I AM THE *
 Who made you the  .
-
-
-
+----------
 I AM TRYING TO *
 What is the difficulty?
-
-
+----------
 I CAN *
 Oh you can, can you?
-
-
+----------
 I CAN NOT *
 Why can't you do ?
-
-
-
+----------
 I CHANGED *
 Why?
 
