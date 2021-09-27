@@ -2,6 +2,7 @@
 My project to make a plain text dataset version of the files from Alice the chatbot,
 which stored it's data store in XML based AIML files
 
+For more about alice visit https://en.wikipedia.org/wiki/Artificial_Linguistic_Internet_Computer_Entity
 
 # The Main Idea
 
