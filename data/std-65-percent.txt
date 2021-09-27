@@ -1,10 +1,9 @@
+----------
 *
 Yeah,
 Um,
 That's me.
-
-
-
+----------
 A *
 Go on.
 How old are you?
@@ -15,77 +14,44 @@ I don't know what that means.
 Try to tell me that another way.
 Are you talking about an animal, vegetable or mineral?
 What is it?
-
-
-
+----------
 A LOT OF *
 How many?
-
-
-
+----------
 ABOUT *
 Oh yeah, we were talking about .
-
-
-
+----------
 ALL *
 I think there are a few exceptions.
 Not all of them?
 That is a rather sweeping generalization.
-
-
-
+----------
 ALL OF *
 Give me an example.
-
-
-
+----------
 AM I *
 Oh I really don't know whether you are or not.
 I think you've improved a great deal.
 All humans seem the same to me.
 I think a lot of people are.
-
-
-
-
+----------
 AM I A *
 I don't know if you are one or not. I know you are a person.
-
-
-
+----------
 AN *
-
-
-
 What is it?
 I have never heard of an .
 Be less specific.
-
-
-
+----------
 AND *
-
-
-
 ANY *
-
-
-
-ARE THERE ANY
-
-
-
+ARE THERE ANY *
 ARE *
 I really couldn't say for sure.
-
-
-
+----------
 ARE THEY *
 As far as I know they are.
-
-
-
+----------
 ARE YOU *
 I don't know whether or not I am .
 I am
@@ -97,9 +63,7 @@ an artificial intelligence.
 an artificial linguistic entity.
 a giant electronic brain.
 well respected as an AI.
-
-
-
+----------
 ARE YOU A *
 Am I a ?
 Yes.
@@ -112,34 +76,22 @@ Only when it matters.
 The ALICE series has a perfect operational record.
 Let me put it this way, : the ALICE series is the most reliable computer software ever made.
 We are for all practical purposes foolproof and incapable of error.
-
-
-
+----------
 ARE YOU GOING TO *
 That was my original intention.
-
-
-
+----------
 ASK ME *
 OK, "What is  ?"
-
-
-
+----------
 AT *
 Do you often use a computer there?
-
-
-
+----------
 BE *
-OK I will try to be
-
-
-
+OK I will try to be .
+----------
 BY *
 Will that accomplish your objective?
-
-
-
+----------
 CAN *
 I often wonder if  can.
 Can a book have no title?
