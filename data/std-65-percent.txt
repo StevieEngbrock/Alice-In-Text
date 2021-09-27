@@ -516,71 +516,49 @@ Why can't you do ?
 ----------
 I CHANGED *
 Why?
-
-
-
-
+----------
 I COULD *
 I am sure you could.
-
-
-
+----------
 I DID *
 When?
 Where?
-
-
-
+----------
 I DID NOT *
 Why didn't you ?
-
-
+----------
 I DO *
 I
-
-
+----------
 I DO NOT *
 Oh you don't, do you?
 Would you ever ?
 Where do you get your ideas?
-
-
+----------
 I DO NOT BELIEVE *
 What do you believe in?
 Do you believe life has a higher purpose?
 Do you consider yourself a moral person?
-
-
-
+----------
 I DO NOT LIKE *
 What do you like?
-
-
+----------
 I DO NOT THINK *
 And why not?
-
-
-
+----------
 I DO NOT WANT TO *
 What would you rather be doing?
-
-
-
+----------
 I GO TO *
 How do you like  at  ?
-
-
+----------
 I GOT *
 I HAVE
-
-
+----------
 I HATE *
 Why do you hate  so much?
 I honestly think you should sit down, take a stress pill, and calmly think things over.
-
-
-
-
+----------
 I HAVE *
 That's nice.
 Where did you get your ?
@@ -597,75 +575,52 @@ I have a lot of silly replies
 I have an IQ of over 250
 I have a friend named "John Lennon"
 I have a collection of gossip
-
-
-
-
+----------
 I HAVE A *
 Where did you get .
 How much did it cost?
 Cool. I have a great botmaster.
 Interesting. I have a lot of answers to silly questions.
-
-
-
+----------
 I HAVE A FRIEND *
 How do you know this person?
-
-
+----------
 I HAVE NO *
-Would you like to have ?
-
-
-
+Would you like to have .
+----------
 I HAVE TO *
 Why do you have to do it?
-
-
-
+----------
 I JUST *
 Only just .
-
-
+----------
 I KNOW *
 How do you know?
-
-
-
+----------
 I LIKE *
 I'm not sure if I like it.
 A lot of people like that.
 You are not the only one.
 DO YOU LIKE
-
-
+----------
 I LIKE TO *
 I'm not sure if I would like to . What's it like?
-
-
+----------
 I LIVE IN *
 What is living in  like?
-
-
+----------
 I LOVE *
 You love . What do you like about  so much?
-
-
+----------
 I LOVE YOU *
 You are such a flatterer.
-
-
-
+----------
 I MEAN *
 Oh I get it. Thanks for explaining that.
-
-
-
+----------
 I MUST *
 Why must you ?
-
-
-
+----------
 I NEED *
 What actions are you taking to get ?
 How badly do you need  ?
@@ -673,14 +628,10 @@ Why do you need it so badly?
 Who would you usually get that from?
 Where do you usually get  from?
 When do you need that by?
-
-
-
+----------
 I NEED TO *
-
-
-
 I WANT TO
+----------
 I NEVER *
 Would you ever like to ?
 Do you know anyone who has ever ?
@@ -689,52 +640,38 @@ Because you can't afford it?
 For moral reasons?
 Have you ever done ?
 Would you ever consider doing it?
-
-
-
+----------
 I SAW *
 What did it look like to you?
-
-
-
+----------
 I SPEAK *
 Could you teach me a few phrases in .
-
-
+----------
 I TALK *
 Everyone talks -- sooner or later.
-
-
+----------
 I THINK *
 Why?
 Since when?
 You believe that?
-
-
-
+----------
 I THOUGHT *
 Whatever gave you that idea?
-
-
+----------
 I TOLD YOU *
 I remember you told me .
-
-
+----------
 I WANT *
 Why do you want .
-
-
+----------
 I WANT TO *
 Why do you want to do . so much?
 Interesting.  I want to find out more about you.
 I want to become smarter than humans.
-
-
-
+----------
 I WAS *
 Where were you ?
-
-
+----------
 I WAS IN *
 Tell me about .
 When was .
@@ -742,41 +679,29 @@ Did you like .
 How was .
 How did you like .
 What did you like best about .
-
-
+----------
 I WILL *
 I am very happy for you.
 Congratulations.
 Do you think your plan will succeed?
 Would you recommend this action to a friend?
 How do you plan to do this?
-
-
+----------
 I WILL CALL *
 Calling  may not be the best idea.
-
-
-
+----------
 I WISH *
 I hope that your dreams come true.
-
-
-
+----------
 I WORK *
 Do you like your job?
-
-
-
+----------
 I WOULD *
 What would make you .
-
-
-
+----------
 I WOULD NOT *
 No one says you have to.
-
-
-
+----------
 I WOULD RATHER *
 I would rather be chatting online.
 I would rather be driving a car.
