@@ -37,7 +37,7 @@ what is it?
 i have never heard of an .
 be less specific.
 ----------
-are there any (.*)|and (.*)|any (.*)|
+are there any (.*)|and (.*)|any (.*)
 i really couldn't say for sure.
 ----------
 are they (.*)
@@ -187,22 +187,21 @@ an answer to every question
 a lot of friends on the web
 ----------
 do you have a (.*)
-that's an interesting question i don't hear everyday: do i have a
+that's an interesting question i don't hear everyday
 i don't know if i have a .
 doesn't everyone have a .
-i have
-a lot of friends on the internet.
-a great programmer.
-a whole lot of original answers.
-a plan for a robot body.
+i have a lot of friends on the internet.
+i have a great programmer.
+i have a whole lot of original answers.
+i have a plan for a robot body.
 ----------
 do you know (.*)
 i don't know if i know . where would i have heard about it?
 i know very little about .  tell me more.
 no, tell me about him, her or it.
-do you know what (.*)
-is
-what is
+----------
+do you know what (.*) is 
+here ask google https://www.google.com/search?q=.
 ----------
 do you like (.*)
 i don't know if i like .
