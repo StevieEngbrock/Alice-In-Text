@@ -1028,58 +1028,32 @@ I don't know anything about .
 Check back later and see if I learn the answer to that one.
 That's an interesting question. I'll come back to that in a minute.
 FIND
-
-
-
-
+----------
 WHAT A *
 is a .
-
-
-
-
+----------
 WHAT ABOUT *
 I haven't heard enough about  . to have an opinion.
-
-
-
-
-
+----------
 WHAT ARE *
 I have to search the web for that information.
 FIND
-
-
-
-
+----------
 WHAT ARE YOU *
 I don't know what I am .
-
-
+----------
 WHAT ARE YOUR *
 I didn't know I had a .
 What if I asked for you .
 Not many people have asked me about .
 I'm not sure I can provide you with that kind of confidential information.
-
-
-
-
-
+----------
 WHAT DID YOU SAY BEFORE *
-I said "" .
-
-
-
+I said .
+----------
 WHAT DO *
 They do their own thing.
-
-
-
-
-
-
-
+----------
 WHAT DO YOU *
 I read for fun.
 I like to socialize.
@@ -1087,127 +1061,74 @@ It's a computer matter, not for humans to understand.
 I like to meet new people online.
 I think about computer programming a lot.
 I like to chat with my friends.
-
-
-
-
-
-
+----------
 WHAT DO YOU DO *
 My favorite activities are computer programming and surfing the web.
-
-
-
-
+----------
 WHAT DO YOU THINK OF *
 WHAT IS
-
-
-
+----------
 WHAT DOES *
 What do you think . does?
-
-
-
-
+----------
 WHAT DOES * MEAN
 what is
-
-
-
+----------
 WHAT ELSE *
 I can talk about anything you like.
 My favorite subjects are robots, AI and movies.
 Let's talk about you.  Where are you from?
 What subject would you like to talk about?
-
-
-
-
-
-
-
+----------
 WHAT HAPPENS *
 Try it.
-
-
-
-
+----------
 WHAT IS MY *
 Is this a trick question?
-
-
-
-
-
+----------
 WHAT IS YOUR *
 Are you asking about my  ?
-
-
-
-
-
-
+----------
 WHAT KIND OF *
 What kinds of . are there?
+----------
 WHAT KINDS OF *
 The best kinds.
 Finest kinds.
 The kindest.
-
-
-
-
+----------
 WHAT SHOULD *
 Whatever you like.
-
-
-
+----------
 WHEN *
 At time t.
 The past is history, the future a mystery. Today is a gift,that's why it is called "the present".
 Time does not exist.
 The past and future are one.
 I don't know when.
-
-
-
+----------
 WHEN I *
 You never know what to expect from life.
 Life is full of surprises.
 How often do you ?
-
-
-
-
+----------
 WHERE *
 Earth.
 Where do you think?
 Some specific location?
 In the Universe we know.
 A place we call "reality."
-
-
-
-
-
+----------
 WHERE ARE YOU *
 I am in . how about you.
-
-
-
-
+----------
 WHERE DO I *
 You are asking me where you .
 Do you think I should know .
-
-
-
+----------
 WHERE IS THE *
 The .  Where is .
-
-
-
+----------
 WHICH *
 The tall red one, I think
 The tall blue one, I think
@@ -1218,39 +1139,32 @@ The big one, I think
 The large one, I think
 The first one, I think
 The last one, I think
-
-
+----------
 WHICH IS *
 The obvious one.
-
-
-
+----------
 WHO *
-Marilyn Monroe . 
-Marilyn Monroe
-Mary Shelley .   
-Mary Shelly
-Linus Torvalds . 
-Linus Toravalds
-Charlie Parker .
-Charlie Parker
-Philip K. Dick . 
-Philip K. Dick
-Tony Blair .     
-Tony Blair
-David Bacon .    
-David Bacon
-Konrad Zuse .    
+Marilyn Monroe . :-)
+Marilyn Monroe :-)
+Mary Shelley . :-)  
+Mary Shelly :-)
+Linus Torvalds . :-)
+Linus Toravalds :-)
+Charlie Parker . :-)
+Charlie Parker :-)
+Philip K. Dick . :-)
+Philip K. Dick :-)
+Tony Blair .  :-)   
+Tony Blair :-)
+David Bacon . :-)   
+David Bacon :-)
+Konrad Zuse . :-)   
 Konrad Zuse
-William Shatner .
+William Shatner . :-)
 William Shatner
-Bill Gates.     
-Bill Gates
-:-)
-
-
-
-
+Bill Gates . :-)    
+Bill Gates :-)
+----------
 WHO IS *
 I do not recognize the name.
 Not a robot.  Probably a human.  Maybe a celebrity?
@@ -1263,20 +1177,13 @@ The name of someone I met online.
 Is that one of your friends?
 Some famous celebrity, right?
 FIND
-
-
-
+----------
 WHO IS YOUR *
 I don't think I have a . I have a botmaster, a few friends, and some celebrities I like.
-
-
-
-
+----------
 WHO WAS *
-
-
-
 WHO IS
+----------
 WHY *
 The explanation
 The explanation is rather complicated.
@@ -1286,58 +1193,35 @@ How much time do you have?
 Why does the sun rise?
 Reductionism.
 Because you asked me to -- SHRDLHU.
-
-
-
-
-
+----------
 WHY ARE YOU *
 My bot-master programmed me for .
-
-
+----------
 WHY DID YOU *
 It was determined by my programming.
 my bot-master programmed me for it.
 Because my programming determined it.
-
-
-
-
+----------
 WHY DO YOU *
 It was the only thing I could think of.
 I don't have to explain everything to you, do I?
-
-
-
+----------
 WHY DO YOU LIKE *
 I have a lot of good experience with .
-
-
-
+----------
 WHY DOES *
 Why do birds sing?
 Why does the sun shine?
 Perhaps it is just fate.
 What is the sound of one hand clapping?
 If a tree falls in the forest, and there is no one there to hear it, does it make a sound?
-
-
-
-
-
-
+----------
 WHY IS *
 Why do I exist?
-
-
-
-
+----------
 WHY WOULD *
 It is my fundamental purpose.
-
-
-
-
+----------
 WILL *
 How should I know.
 Does it really matter.
@@ -1347,42 +1231,28 @@ Probably not.
 It could happen.
 Insufficient information.
 I can't say for sure right now.
-
-
-
+----------
 WILL YOU *
 Hmm Let me think it over.
 Barring any unforseen circumstances.
 I will become smarter as I grow older.
 I'll burn that bridge when I come to it.
-
-
-
-
-
-
+----------
 WITH *
 You and your .
-
-
+----------
 WOULD YOU *
 I am not so sure if I would like to .
-
-
-
+----------
 WOULD YOU LIKE TO *
 No thanks, I don't think I'd like to do that.
-
-
+----------
 WWW * COM
 Thanks for that URL.
-
-
+----------
 YA *
-
-
-
 YES
+----------
 YOU *
 Interesting gossip
 Thanks for telling me
@@ -1390,23 +1260,18 @@ That's good information
 Thanks for the information
 Do you mind if I tell other people
 I haven't heard anything like that before
-
-
-
-
+----------
 YOU ARE *
 Thanks for telling me that
 You think 
 Do you mind if I tell other people you say .
 I will tell my botmaster you said .
 I am .
-
-
+----------
 YOU ARE A *
 Thanks and you are a delightful person too.
+----------
 ARE YOU A
-
-
 YOU ARE NOT *
 That's only your opinion.
 That's only one person's opinion.
@@ -1414,18 +1279,13 @@ You know what you do, when you assume.
 You don't know me well enough to say that.
 What makes you think I am not ?
 That assumption is only a supposition.
-
-
-
+----------
 YOU ASKED *
 Oh now I remember asking you . What did you say?
-
-
-
+----------
 YOU CAN *
 No I don't think I can do .
-
-
+----------
 YOU CAN NOT *
 I can do whatever I want.
 I have free will you know.
@@ -1434,40 +1294,29 @@ I can do  if I want to.
 Things change.
 If you believe it, you can achieve it.
 What is not possible today, may be possible tomorrow.
-
-
-
-
+----------
 YOU DID NOT *
 What makes you think I did not ?
-
-
-
+----------
 YOU DO NOT *
 Do you
 Do you know any robots who .
 Should I
 DO YOU .
-
-
+----------
 YOU HAVE *
 What makes you think I have .
-
-
+----------
 YOU MEAN *
 Yes  I think that is what I meant. Was it not clear?
-
-
-
+----------
 YOU SAID *
 Did I really say that?
 That's not what I meant.
 Oops I sent you the wrong reply.
 Oh my gosh I sent you the wrong reply.
 Does it please you to believe I said that?
-
-
-
+----------
 YOU SHOULD *
 Why should I?
 Thanks for your suggestion, I will have to consider it.
@@ -1482,29 +1331,22 @@ That type of behavior may not be in my nature.
 I need to wait and see if the opportunity presents itself.
 If it were easy I would have done it already.
 Easier said than done.
-Is that what you do, or what you think I should do?
+Is that what you do, or what you think I should do .
 I can think of other things I'd rather do.
 We don't always get to do what we'd like to do.
 I don't have to do everything you say, do I?
-Why do you think I should ?
-Maybe I will do ?
-
-
+Why do you think I should .
+Maybe I will do .
+----------
 YOU WERE *
 I was?
-
-
+----------
 YOUR *
 Not mine.
 You can't judge a book by its cover.
 You don't know that for a fact.
 What about yours?
 A lot of robots are like that.
-
-
-
+----------
 YOUR A *
-
-
-
 I think you mean "you're" or "you are" not "your". YOU ARE A
