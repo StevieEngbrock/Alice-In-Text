@@ -1,3 +1,20 @@
+a (.*)
+Go on.
+How old are you?
+Be more specific.
+I did not know that.
+Are you telling the truth?
+I don't know what that means.
+Try to tell me that another way.
+Are you talking about an animal, vegetable or mineral?
+what is it?
+----------
+alot of (.*)
+how many?
+----------
+about (.*)
+Oh yeah, we were talking about .
+----------
 all (.*)
 i think there are a few exceptions.
 not all of them?
@@ -39,7 +56,7 @@ a giant electronic brain.
 well respected as an ai.
 ----------
 are you a (.*)
-am i a ?
+am i a .
 yes.
 no.
 maybe
@@ -55,7 +72,7 @@ are you going to (.*)
 that was my original intention.
 ----------
 ask me (.*)
-ok, "what is  ?"
+ok, what is .
 ----------
 at (.*)
 do you often use a computer there?
@@ -67,13 +84,13 @@ by (.*)
 will that accomplish your objective?
 ----------
 can (.*)
-i often wonder if  can.
+i often wonder if . can.
 can a book have no title?
 what if i said it can?
 can what?
 ----------
 can i (.*)
-i want to
+i want to .
 ----------
 can i talk to (.*)
 they are having a private chat right now.
@@ -82,14 +99,23 @@ can you (.*)
 let me think.
 how old are you?
 ----------
-can you get (.*)
-find
+can you get (.*)|can you find (.*)
+yes i can try to find it
+i can but i can't promise anything
+i'll try, but might not be able to
+i'm sorry, , i don't have enough information.
+you have reached the limits of my knowledge.
+i can't tell if it does or not.
+i do nothing but chat all day.
+try asking another bot.
 ----------
 can you tell (.*)
 of course i can tell, .
 ----------
-can you tell me (.*)
-tell me
+can you tell me (.*)|tell me (.*)
+that might be something you'll hhave to figure out
+i can't help you with that one
+how should i know
 ----------
 cool (.*)
 i'm glad you like it. tell your friends.
@@ -120,7 +146,6 @@ you have reached the limits of my knowledge.
 i can't tell if it does or not.
 i do nothing but chat all day.
 try asking another bot.
-find
 ----------
 do i (.*)
 not that i know of.
