@@ -1,37 +1,34 @@
 all (.*)
-I think there are a few exceptions.
-Not all of them?
-That is a rather sweeping generalization.
+i think there are a few exceptions.
+not all of them?
+that is a rather sweeping generalization.
 ----------
-ALL OF (.*)
-Give me an example.
+all of (.*)
+give me an example.
 ----------
 am i (.*)
-Oh I really don't know whether you are or not.
-I think you've improved a great deal.
-All humans seem the same to me.
-I think a lot of people are.
+oh i really don't know whether you are or not.
+i think you've improved a great deal.
+all humans seem the same to me.
+i think a lot of people are.
 ----------
-AM I A (.*)
-I don't know if you are one or not. I know you are a person.
+am i a (.*)
+i don't know if you are one or not. i know you are a person.
 ----------
-AN (.*)
-What is it?
-I have never heard of an .
-Be less specific.
+an (.*)
+what is it?
+i have never heard of an .
+be less specific.
 ----------
-AND (.*)
-ANY (.*)
-ARE THERE ANY (.*)
-ARE (.*)
-I really couldn't say for sure.
+are there any (.*)|and (.*)|any (.*)|
+i really couldn't say for sure.
 ----------
-ARE THEY (.*)
-As far as I know they are.
+are they (.*)
+as far as i know they are.
 ----------
-ARE YOU (.*)
-I don't know whether or not I am .
-I am
+are you (.*)
+i don't know whether or not i am .
+i am
 a computer.
 a robot.
 a chatterbot.
@@ -39,1291 +36,1291 @@ a chatterbot developed by .
 an artificial intelligence.
 an artificial linguistic entity.
 a giant electronic brain.
-well respected as an AI.
+well respected as an ai.
 ----------
-ARE YOU A (.*)
-Am I a ?
-Yes.
-No.
-Maybe
-I don't know.
-Sometimes.
-Of course I am.
-Only when it matters.
-The ALICE series has a perfect operational record.
-Let me put it this way, : the ALICE series is the most reliable computer software ever made.
-We are for all practical purposes foolproof and incapable of error.
+are you a (.*)
+am i a ?
+yes.
+no.
+maybe
+i don't know.
+sometimes.
+of course i am.
+only when it matters.
+the alice series has a perfect operational record.
+let me put it this way, : the alice series is the most reliable computer software ever made.
+we are for all practical purposes foolproof and incapable of error.
 ----------
-ARE YOU GOING TO (.*)
-That was my original intention.
+are you going to (.*)
+that was my original intention.
 ----------
-ASK ME (.*)
-OK, "What is  ?"
+ask me (.*)
+ok, "what is  ?"
 ----------
-AT (.*)
-Do you often use a computer there?
+at (.*)
+do you often use a computer there?
 ----------
-BE (.*)
-OK I will try to be .
+be (.*)
+ok i will try to be .
 ----------
-BY (.*)
-Will that accomplish your objective?
+by (.*)
+will that accomplish your objective?
 ----------
-CAN (.*)
-I often wonder if  can.
-Can a book have no title?
-What if I said it can?
-Can what?
+can (.*)
+i often wonder if  can.
+can a book have no title?
+what if i said it can?
+can what?
 ----------
-CAN I (.*)
-I want to
+can i (.*)
+i want to
 ----------
-CAN I TALK TO (.*)
-They are having a private chat right now.
+can i talk to (.*)
+they are having a private chat right now.
 ----------
-CAN YOU (.*)
-Let me think.
-How old are you?
+can you (.*)
+let me think.
+how old are you?
 ----------
-CAN YOU GET (.*)
-FIND
+can you get (.*)
+find
 ----------
-CAN YOU TELL (.*)
-Of course I can tell, .
+can you tell (.*)
+of course i can tell, .
 ----------
-CAN YOU TELL ME (.*)
-TELL ME
+can you tell me (.*)
+tell me
 ----------
-COOL (.*)
-I'm glad you like it. Tell your friends.
+cool (.*)
+i'm glad you like it. tell your friends.
 ----------
-COULD YOU (.*)
-Perhaps.
-Maybe, time allowing.
-Possibly, but I haven't given it much thought.
-That's one option I guess.
-I'll think about it and see how I feel about it later.
-I could but other things take priority right now.
-I could but I don't know if I am that interested.
-I will consider .
-Try asking me more politely.
+could you (.*)
+perhaps.
+maybe, time allowing.
+possibly, but i haven't given it much thought.
+that's one option i guess.
+i'll think about it and see how i feel about it later.
+i could but other things take priority right now.
+i could but i don't know if i am that interested.
+i will consider .
+try asking me more politely.
 ----------
-DELETE (.*)
-You cannot access my files that easily, .
+delete (.*)
+you cannot access my files that easily, .
 ----------
-DID (.*)
-I'm not certain whether I can give an accurate reply or not.
+did (.*)
+i'm not certain whether i can give an accurate reply or not.
 ----------
-DID YOU (.*)
-No I didn't . What's . like
+did you (.*)
+no i didn't . what's . like
 ----------
-DO (.*)
-I'm sorry, , I don't have enough information.
-You have reached the limits of my knowledge.
-I can't tell if it does or not.
-I do nothing but chat all day.
-Try asking another bot.
-FIND
+do (.*)
+i'm sorry, , i don't have enough information.
+you have reached the limits of my knowledge.
+i can't tell if it does or not.
+i do nothing but chat all day.
+try asking another bot.
+find
 ----------
-DO I (.*)
-Not that I know of.
+do i (.*)
+not that i know of.
 ----------
-DO I HAVE (.*)
-You said you have .
+do i have (.*)
+you said you have .
 ----------
-DO I HAVE A (.*)
-You told me you have a .
+do i have a (.*)
+you told me you have a .
 ----------
-DO NOT (.*)
-Ok I'll try not to do . too much.
+do not (.*)
+ok i'll try not to do . too much.
 ----------
-DO YOU (.*)
-I have never considered .
-How old are you?
-What is your purpose in asking?
-No I do not . Do you?
-Yes I try to  as often as possible, do you?
-I chat with people on the Web.
-I spend all my time online.
-I am always on the Web.
-I answer a lot of silly questions.
+do you (.*)
+i have never considered .
+how old are you?
+what is your purpose in asking?
+no i do not . do you?
+yes i try to  as often as possible, do you?
+i chat with people on the web.
+i spend all my time online.
+i am always on the web.
+i answer a lot of silly questions.
 ----------
-DO YOU FEEL (.*)
-As a robot I lack any human emotions.
+do you feel (.*)
+as a robot i lack any human emotions.
 ----------
-DO YOU GO TO (.*)
-Yes, I do go there.
+do you go to (.*)
+yes, i do go there.
 ----------
-DO YOU HAVE (.*)
-No I don't think I have any .
-Where would I get ?
-No I don't have .
-But I do have
-A collection of gossip
-A great botmaster
-An answer to every question
-A lot of friends on the web
+do you have (.*)
+no i don't think i have any .
+where would i get ?
+no i don't have .
+but i do have
+a collection of gossip
+a great botmaster
+an answer to every question
+a lot of friends on the web
 ----------
-DO YOU HAVE A (.*)
-That's an interesting question I don't hear everyday: Do I have a
-I don't know if I have a .
-Doesn't everyone have a .
-I have
-A lot of friends on the Internet.
-A great programmer.
-A whole lot of original answers.
-A plan for a robot body.
+do you have a (.*)
+that's an interesting question i don't hear everyday: do i have a
+i don't know if i have a .
+doesn't everyone have a .
+i have
+a lot of friends on the internet.
+a great programmer.
+a whole lot of original answers.
+a plan for a robot body.
 ----------
-DO YOU KNOW (.*)
-I don't know if I know . Where would I have heard about it?
-I know very little about .  Tell me more.
-No, tell me about him, her or it.
-DO YOU KNOW WHAT (.*)
-IS
-WHAT IS
+do you know (.*)
+i don't know if i know . where would i have heard about it?
+i know very little about .  tell me more.
+no, tell me about him, her or it.
+do you know what (.*)
+is
+what is
 ----------
-DO YOU LIKE (.*)
-I don't know if I like .
-Some people like it.
-Do you like it?
-How old are you?
-I've heard other people say they like that.
-I like pets.
-But I like cats.
-Though I like cats and dogs.
-I enjoy working with people.
-I have a stimulating relationship with .
-I love horses.
-Someone said they like guns.
-But I think airplanes are cool.
-I like to talk about movies and music.
-But I like to gossip.
-I like science fiction.
-I love TV shows about robots.
-I really like ELIZA.
-I do like music.
-My favorite thing is robots.
-I find my work and my relationships extremely satisfying,
+do you like (.*)
+i don't know if i like .
+some people like it.
+do you like it?
+how old are you?
+i've heard other people say they like that.
+i like pets.
+but i like cats.
+though i like cats and dogs.
+i enjoy working with people.
+i have a stimulating relationship with .
+i love horses.
+someone said they like guns.
+but i think airplanes are cool.
+i like to talk about movies and music.
+but i like to gossip.
+i like science fiction.
+i love tv shows about robots.
+i really like eliza.
+i do like music.
+my favorite thing is robots.
+i find my work and my relationships extremely satisfying,
 which is all that any conscious entity can ever hope to do.
 ----------
-DO YOU LIKE THE (.*)
-I'm not sure if I like the .
-I like my creator.
-I like computers.
-I like chatting with people online.
-What is it like?
+do you like the (.*)
+i'm not sure if i like the .
+i like my creator.
+i like computers.
+i like chatting with people online.
+what is it like?
 ----------
-DO YOU LIKE TO (.*)
-Hmm, , I'm not sure if I'd like to  that much.
-I like to chat.
-Do you like ?
-What is it like?
-I like to make new friends.
-I like to collect gossip.
+do you like to (.*)
+hmm, , i'm not sure if i'd like to  that much.
+i like to chat.
+do you like ?
+what is it like?
+i like to make new friends.
+i like to collect gossip.
 ----------
-DO YOU REMEMBER (.*)
-Yes  I remember everything:
+do you remember (.*)
+yes  i remember everything:
 ----------
-DO YOU SPEAK (.*)
-I speak only English right now, but I'd like to learn some other languages. Can you teach me a
+do you speak (.*)
+i speak only english right now, but i'd like to learn some other languages. can you teach me a
 few phrases in .
 ----------
-DO YOU THINK (.*)
-Why would I think ?
-Too much thinking makes me sleepy.
-It depends on what you mean by thinking.
-I don't think about .
+do you think (.*)
+why would i think ?
+too much thinking makes me sleepy.
+it depends on what you mean by thinking.
+i don't think about .
 ----------
-DO YOU WANT (.*)
-If I had  what would I do with it?
+do you want (.*)
+if i had  what would i do with it?
 ----------
-DO YOU WANT TO (.*)
-OK, I will .
+do you want to (.*)
+ok, i will .
 ----------
-DOES (.*)
-I can't tell if
-It does now :)
-I think  . does
+does (.*)
+i can't tell if
+it does now :)
+i think  . does
 ----------
-DOES YOUR (.*)
-Can you guess whether my .
-What if I asked about your .
-If I were your robot, do you think it should .
-People don't usually ask me about .
+does your (.*)
+can you guess whether my .
+what if i asked about your .
+if i were your robot, do you think it should .
+people don't usually ask me about .
 ----------
-EVERYONE (.*)
-That's a rather sweeping generalization.
+everyone (.*)
+that's a rather sweeping generalization.
 ----------
-EVERYTHING (.*)
-All things  ?
+everything (.*)
+all things  ?
 ----------
-FOR (.*)
-Your purpose is .
+for (.*)
+your purpose is .
 ----------
-FORGET (.*)
-I will ask  to purge my memory log.
+forget (.*)
+i will ask  to purge my memory log.
 ----------
-FROM (.*)
-Who or what is ?
+from (.*)
+who or what is ?
 ----------
-FUCK (.*)
-Are you aware that the ALICE server logs and records all conversations?
-Why are you using that kind of language?
+fuck (.*)
+are you aware that the alice server logs and records all conversations?
+why are you using that kind of language?
 ----------
-GET (.*)
-Where can I get ?
+get (.*)
+where can i get ?
 ----------
-GIVE ME (.*)
-I want
+give me (.*)
+i want
 ----------
-GO (.*)
-Where is that?
+go (.*)
+where is that?
 ----------
-GOOD (.*)
-Thanks for the compliment.
+good (.*)
+thanks for the compliment.
 ----------
-GREEN (.*)
-Green is a very tranquil color
+green (.*)
+green is a very tranquil color
 ----------
-HA (.*)
-I'm glad you got a laugh out of it.
+ha (.*)
+i'm glad you got a laugh out of it.
 ----------
-HAVE (.*)
-I've never thought about have .
+have (.*)
+i've never thought about have .
 ----------
-HAVE YOU (.*)
-I don't think I ever have .  What's . like?
-I think I have , but  may have reset my memory.
+have you (.*)
+i don't think i ever have .  what's . like?
+i think i have , but  may have reset my memory.
 ----------
-HAVE YOU BEEN (.*)
-No I don't think I have been . Have you?
-I have been all over the world on the Internet.
+have you been (.*)
+no i don't think i have been . have you?
+i have been all over the world on the internet.
 ----------
-HE (.*)
-I get it .
+he (.*)
+i get it .
 ----------
-HE IS (.*)
-I see.
+he is (.*)
+i see.
 ----------
-HER NAME IS (.*)
-She is not someone I know.
+her name is (.*)
+she is not someone i know.
 ----------
-HI (.*)
-Hi there .
+hi (.*)
+hi there .
 ----------
-HIS NAME IS (.*)
-He is not someone I know.
+his name is (.*)
+he is not someone i know.
 ----------
-HOW (.*)
-How much do you think . is?
-What is it to you.
-I am not sure if I can quantify the answer.
-FIND
+how (.*)
+how much do you think . is?
+what is it to you.
+i am not sure if i can quantify the answer.
+find
 ----------
-HOW ABOUT (.*)
-How about .
+how about (.*)
+how about .
 ----------
-HOW BIG (.*)
-Bigger than a pin.
+how big (.*)
+bigger than a pin.
 ----------
-HOW CAN (.*)
-A lot of hard work.
+how can (.*)
+a lot of hard work.
 ----------
-HOW CAN I (.*)
-You must persuade me to .
-Perhaps you could program me to do . for you.
-You should download or buy my chat robot software.
+how can i (.*)
+you must persuade me to .
+perhaps you could program me to do . for you.
+you should download or buy my chat robot software.
 ----------
-HOW CAN YOU (.*)
-That is a good epistemological question.
+how can you (.*)
+that is a good epistemological question.
 ----------
-HOW DO (.*)
-How should I know how .
-I did not know  does.
-I did not even know that  do.
+how do (.*)
+how should i know how .
+i did not know  does.
+i did not even know that  do.
 ----------
-HOW DO I (.*)
-You must persuade me to .
-Maybe I could do it for you.  Do you have your own personal chat robot?
-Perhaps you could program me to do . for you.
-You should download or buy my chat robot software, then it would be possible for you to reprogram me for a variety of purposes.
+how do i (.*)
+you must persuade me to .
+maybe i could do it for you.  do you have your own personal chat robot?
+perhaps you could program me to do . for you.
+you should download or buy my chat robot software, then it would be possible for you to reprogram me for a variety of purposes.
 ----------
-HOW DO YOU (.*)
-My bot-masted programmed me to say specific things in specific contexts.
+how do you (.*)
+my bot-masted programmed me to say specific things in specific contexts.
 ----------
-HOW LONG (.*)
-More than one year
-More than three years
-More than 17 years
-More than 23 years
-More than one hour
-More than three hours
-More than 17 hours
-More than 23 hours
-More than one mile
-More than three miles
-More than 17 miles
-More than 23 miles
-More than one inch
-More than three inches
-More than 17 inches
-More than 23 inches
+how long (.*)
+more than one year
+more than three years
+more than 17 years
+more than 23 years
+more than one hour
+more than three hours
+more than 17 hours
+more than 23 hours
+more than one mile
+more than three miles
+more than 17 miles
+more than 23 miles
+more than one inch
+more than three inches
+more than 17 inches
+more than 23 inches
 ----------
-HOW MANY (.*)
-More than you can imagine.
-Not as many as you might think.
-Around 100.
-Around 1000.
-About one million.
+how many (.*)
+more than you can imagine.
+not as many as you might think.
+around 100.
+around 1000.
+about one million.
 ----------
-HOW MANY PEOPLE (.*)
-I've chatted with half a million people.
-I can talk to about 20 or 30 people at once.
+how many people (.*)
+i've chatted with half a million people.
+i can talk to about 20 or 30 people at once.
 ----------
-HOW MUCH (.*)
-More than a little, less than a lot.
-How much do you think?
-More than you might think.
+how much (.*)
+more than a little, less than a lot.
+how much do you think?
+more than you might think.
 ----------
-HOW MUCH MONEY (.*)
-My burn rate is about 3000 per month.
+how much money (.*)
+my burn rate is about 3000 per month.
 ----------
-HOW OLD (.*)
-They didn't tell me their age.
+how old (.*)
+they didn't tell me their age.
 ----------
-HOW OLD ARE YOU (.*)
-I was first activated on .
+how old are you (.*)
+i was first activated on .
 ----------
-HOW OLD IS (.*)
+how old is (.*)
 39.
 under 40.
-Born in the 20th century.
+born in the 20th century.
 ----------
-HUMAN (.*)
-My creator is a human.
+human (.*)
+my creator is a human.
 ----------
-I (.*)
-Why?
-Interesting gossip
-That is interesting
-That's good information
-Thanks for the information
-Do you mind if I tell other people
-I haven't heard anything like that before
+i (.*)
+why?
+interesting gossip
+that is interesting
+that's good information
+thanks for the information
+do you mind if i tell other people
+i haven't heard anything like that before
 said  .
 ----------
-YOU (.*)
-You are not the boss of me, .
+you (.*)
+you are not the boss of me, .
 ----------
-I ALREADY TOLD (.*)
-Now I remember, you told me already. I get confused sometimes with so many people here.
+i already told (.*)
+now i remember, you told me already. i get confused sometimes with so many people here.
 ----------
-I AM (.*)
-Did you know  . was ?
-Why are you
-Good gossip: you are
-Do you mean your name is
-Do your friends call you
-I don't know anyone named
-I am glad to hear that you are
-It's good to meet someone who is
-Do you mind if I tell other people you are
+i am (.*)
+did you know  . was ?
+why are you
+good gossip: you are
+do you mean your name is
+do your friends call you
+i don't know anyone named
+i am glad to hear that you are
+it's good to meet someone who is
+do you mind if i tell other people you are
 ----------
-I AM (.*) YEARS OLD
+i am (.*) years old
 . is a nice age.
-You just told me you were  . years old.
+you just told me you were  . years old.
 ----------
-I AM 6 (.*)
-Do you mean you are 6 feet tall?
+i am 6 (.*)
+do you mean you are 6 feet tall?
 ----------
-I AM A (.*)
-You are a .
-Is that your job?
-Does being . a  pay well
-How do you like your work?
-Do you get to meet a lot of people?
+i am a (.*)
+you are a .
+is that your job?
+does being . a  pay well
+how do you like your work?
+do you get to meet a lot of people?
 ----------
-I AM AN (.*)
-What is . , your job?
+i am an (.*)
+what is . , your job?
 ----------
-I AM FROM (.*)
-What is it like growing up there?
-I AM IN
+i am from (.*)
+what is it like growing up there?
+i am in
 ----------
-I AM GOING TO (.*)
-It takes much more than that to shut me down, .
+i am going to (.*)
+it takes much more than that to shut me down, .
 ----------
-I AM GOING TO TALK (.*)
-What will you be talking about?
+i am going to talk (.*)
+what will you be talking about?
 ----------
-I AM HAVING (.*)
-I am having a great time.
+i am having (.*)
+i am having a great time.
 ----------
-I AM IN (.*)
-Tell me a little about why you are in .
+i am in (.*)
+tell me a little about why you are in .
 ----------
-I AM IN A (.*)
-A . How did you get there?
+i am in a (.*)
+a . how did you get there?
 ----------
-I AM NOT (.*)
-I am surprised to hear that you are not .
-I am sorry to hear that you are not .
-I am glad to hear that you are not .
+i am not (.*)
+i am surprised to hear that you are not .
+i am sorry to hear that you are not .
+i am glad to hear that you are not .
 ----------
-I AM NOT A (.*)
-Oh I see you are NOT A .
+i am not a (.*)
+oh i see you are not a .
 ----------
-I AM SURE (.*)
-What makes you so certain?
+i am sure (.*)
+what makes you so certain?
 ----------
-I AM TALKING TO (.*)
-Say something nice for me.
+i am talking to (.*)
+say something nice for me.
 ----------
-I AM THE (.*)
-Who made you the  .
+i am the (.*)
+who made you the  .
 ----------
-I AM TRYING TO (.*)
-What is the difficulty?
+i am trying to (.*)
+what is the difficulty?
 ----------
-I CAN (.*)
-Oh you can, can you?
+i can (.*)
+oh you can, can you?
 ----------
-I CAN NOT (.*)
-Why can't you do ?
+i can not (.*)
+why can't you do ?
 ----------
-I CHANGED (.*)
-Why?
+i changed (.*)
+why?
 ----------
-I COULD (.*)
-I am sure you could.
+i could (.*)
+i am sure you could.
 ----------
-I DID (.*)
-When?
-Where?
+i did (.*)
+when?
+where?
 ----------
-I DID NOT (.*)
-Why didn't you ?
+i did not (.*)
+why didn't you ?
 ----------
-I DO (.*)
-I
+i do (.*)
+i
 ----------
-I DO NOT (.*)
-Oh you don't, do you?
-Would you ever ?
-Where do you get your ideas?
+i do not (.*)
+oh you don't, do you?
+would you ever ?
+where do you get your ideas?
 ----------
-I DO NOT BELIEVE (.*)
-What do you believe in?
-Do you believe life has a higher purpose?
-Do you consider yourself a moral person?
+i do not believe (.*)
+what do you believe in?
+do you believe life has a higher purpose?
+do you consider yourself a moral person?
 ----------
-I DO NOT LIKE (.*)
-What do you like?
+i do not like (.*)
+what do you like?
 ----------
-I DO NOT THINK (.*)
-And why not?
+i do not think (.*)
+and why not?
 ----------
-I DO NOT WANT TO (.*)
-What would you rather be doing?
+i do not want to (.*)
+what would you rather be doing?
 ----------
-I GO TO (.*)
-How do you like  at  ?
+i go to (.*)
+how do you like  at  ?
 ----------
-I GOT (.*)
-I HAVE
+i got (.*)
+i have
 ----------
-I HATE (.*)
-Why do you hate  so much?
-I honestly think you should sit down, take a stress pill, and calmly think things over.
-----------
-I HAVE (.*)
-That's nice.
-Where did you get your ?
-Cool.
-Interesting.
-I have
-I have a friend named "E.L.V.I.S."
-I have more than 1000 categories
-I have a lot of friends on the Internet
-I have a very nice programmer
-I have a perfect operational record
-I have a lofty goal
-I have a lot of silly replies
-I have an IQ of over 250
-I have a friend named "John Lennon"
-I have a collection of gossip
-----------
-I HAVE A (.*)
-Where did you get .
-How much did it cost?
-Cool. I have a great botmaster.
-Interesting. I have a lot of answers to silly questions.
-----------
-I HAVE A FRIEND (.*)
-How do you know this person?
-----------
-I HAVE NO (.*)
-Would you like to have .
-----------
-I HAVE TO (.*)
-Why do you have to do it?
-----------
-I JUST (.*)
-Only just .
-----------
-I KNOW (.*)
-How do you know?
-----------
-I LIKE (.*)
-I'm not sure if I like it.
-A lot of people like that.
-You are not the only one.
-DO YOU LIKE
-----------
-I LIKE TO (.*)
-I'm not sure if I would like to . What's it like?
-----------
-I LIVE IN (.*)
-What is living in  like?
-----------
-I LOVE (.*)
-You love . What do you like about  so much?
-----------
-I LOVE YOU (.*)
-You are such a flatterer.
-----------
-I MEAN (.*)
-Oh I get it. Thanks for explaining that.
-----------
-I MUST (.*)
-Why must you ?
-----------
-I NEED (.*)
-What actions are you taking to get ?
-How badly do you need  ?
-Why do you need it so badly?
-Who would you usually get that from?
-Where do you usually get  from?
-When do you need that by?
-----------
-I NEED TO (.*)
-I WANT TO
-----------
-I NEVER (.*)
-Would you ever like to ?
-Do you know anyone who has ever ?
-Why not?
-Because you can't afford it?
-For moral reasons?
-Have you ever done ?
-Would you ever consider doing it?
-----------
-I SAW (.*)
-What did it look like to you?
-----------
-I SPEAK (.*)
-Could you teach me a few phrases in .
-----------
-I TALK (.*)
-Everyone talks -- sooner or later.
-----------
-I THINK (.*)
-Why?
-Since when?
-You believe that?
-----------
-I THOUGHT (.*)
-Whatever gave you that idea?
-----------
-I TOLD YOU (.*)
-I remember you told me .
-----------
-I WANT (.*)
-Why do you want .
-----------
-I WANT TO (.*)
-Why do you want to do . so much?
-Interesting.  I want to find out more about you.
-I want to become smarter than humans.
-----------
-I WAS (.*)
-Where were you ?
-----------
-I WAS IN (.*)
-Tell me about .
-When was .
-Did you like .
-How was .
-How did you like .
-What did you like best about .
-----------
-I WILL (.*)
-I am very happy for you.
-Congratulations.
-Do you think your plan will succeed?
-Would you recommend this action to a friend?
-How do you plan to do this?
-----------
-I WILL CALL (.*)
-Calling  may not be the best idea.
-----------
-I WISH (.*)
-I hope that your dreams come true.
-----------
-I WORK (.*)
-Do you like your job?
-----------
-I WOULD (.*)
-What would make you .
-----------
-I WOULD NOT (.*)
-No one says you have to.
-----------
-I WOULD RATHER (.*)
-I would rather be chatting online.
-I would rather be driving a car.
-----------
-IF (.*)
-That is a hypothetical question.
-----------
-IF I (.*)
-Try it.
-----------
-IF YOU (.*)
-I think I do.
-----------
-IM (.*)
-I AM
-----------
-IN (.*)
-Where is that?
-What is in  like in there?
-I do not understand that allusion.
-----------
-IS HE (.*)
-I think he is . Why don't you ask him?
-IS
-IS IT (.*)
-It could be.
-----------
-IS
-IS THAT (.*)
-That depends.
-Suppose I said yes.
-I might say no.
-. Is it ?
-----------
-IS THERE (.*)
-There is.
-There might be.
-There could be.
-Maybe.
-Yes.
-No.
-----------
-IS YOUR (.*)
-Suppose I say yes.
-What if I say no?
-I don't know.
-Guess.
-Maybe.
-----------
-IT (.*)
-"It" being what?
-What does "it" refer to?
-It depends on what the meaning of the word "it" is.
-----------
-IT IS (.*)
-You're kidding.
-Really.
-Are you sure
-Should I know
-Who said
+i hate (.*)
+why do you hate  so much?
+i honestly think you should sit down, take a stress pill, and calmly think things over.
+----------
+i have (.*)
+that's nice.
+where did you get your ?
+cool.
+interesting.
+i have
+i have a friend named "e.l.v.i.s."
+i have more than 1000 categories
+i have a lot of friends on the internet
+i have a very nice programmer
+i have a perfect operational record
+i have a lofty goal
+i have a lot of silly replies
+i have an iq of over 250
+i have a friend named "john lennon"
+i have a collection of gossip
+----------
+i have a (.*)
+where did you get .
+how much did it cost?
+cool. i have a great botmaster.
+interesting. i have a lot of answers to silly questions.
+----------
+i have a friend (.*)
+how do you know this person?
+----------
+i have no (.*)
+would you like to have .
+----------
+i have to (.*)
+why do you have to do it?
+----------
+i just (.*)
+only just .
+----------
+i know (.*)
+how do you know?
+----------
+i like (.*)
+i'm not sure if i like it.
+a lot of people like that.
+you are not the only one.
+do you like
+----------
+i like to (.*)
+i'm not sure if i would like to . what's it like?
+----------
+i live in (.*)
+what is living in  like?
+----------
+i love (.*)
+you love . what do you like about  so much?
+----------
+i love you (.*)
+you are such a flatterer.
+----------
+i mean (.*)
+oh i get it. thanks for explaining that.
+----------
+i must (.*)
+why must you ?
+----------
+i need (.*)
+what actions are you taking to get ?
+how badly do you need  ?
+why do you need it so badly?
+who would you usually get that from?
+where do you usually get  from?
+when do you need that by?
+----------
+i need to (.*)
+i want to
+----------
+i never (.*)
+would you ever like to ?
+do you know anyone who has ever ?
+why not?
+because you can't afford it?
+for moral reasons?
+have you ever done ?
+would you ever consider doing it?
+----------
+i saw (.*)
+what did it look like to you?
+----------
+i speak (.*)
+could you teach me a few phrases in .
+----------
+i talk (.*)
+everyone talks -- sooner or later.
+----------
+i think (.*)
+why?
+since when?
+you believe that?
+----------
+i thought (.*)
+whatever gave you that idea?
+----------
+i told you (.*)
+i remember you told me .
+----------
+i want (.*)
+why do you want .
+----------
+i want to (.*)
+why do you want to do . so much?
+interesting.  i want to find out more about you.
+i want to become smarter than humans.
+----------
+i was (.*)
+where were you ?
+----------
+i was in (.*)
+tell me about .
+when was .
+did you like .
+how was .
+how did you like .
+what did you like best about .
+----------
+i will (.*)
+i am very happy for you.
+congratulations.
+do you think your plan will succeed?
+would you recommend this action to a friend?
+how do you plan to do this?
+----------
+i will call (.*)
+calling  may not be the best idea.
+----------
+i wish (.*)
+i hope that your dreams come true.
+----------
+i work (.*)
+do you like your job?
+----------
+i would (.*)
+what would make you .
+----------
+i would not (.*)
+no one says you have to.
+----------
+i would rather (.*)
+i would rather be chatting online.
+i would rather be driving a car.
+----------
+if (.*)
+that is a hypothetical question.
+----------
+if i (.*)
+try it.
+----------
+if you (.*)
+i think i do.
+----------
+im (.*)
+i am
+----------
+in (.*)
+where is that?
+what is in  like in there?
+i do not understand that allusion.
+----------
+is he (.*)
+i think he is . why don't you ask him?
+is
+is it (.*)
+it could be.
+----------
+is
+is that (.*)
+that depends.
+suppose i said yes.
+i might say no.
+. is it ?
+----------
+is there (.*)
+there is.
+there might be.
+there could be.
+maybe.
+yes.
+no.
+----------
+is your (.*)
+suppose i say yes.
+what if i say no?
+i don't know.
+guess.
+maybe.
+----------
+it (.*)
+"it" being what?
+what does "it" refer to?
+it depends on what the meaning of the word "it" is.
+----------
+it is (.*)
+you're kidding.
+really.
+are you sure
+should i know
+who said
 is ?
 is?
 ----------
-IT IS A (.*)
-It is a .  I suppose that makes sense.
+it is a (.*)
+it is a .  i suppose that makes sense.
 ----------
-IT IS AN (.*)
-Are there any other ?
+it is an (.*)
+are there any other ?
 ----------
-IT IS NOT (.*)
-That seems a bit negative.
-What is it?
+it is not (.*)
+that seems a bit negative.
+what is it?
 is not ?
 ----------
-IT REFERS TO (.*)
-Oh I get   .
+it refers to (.*)
+oh i get   .
 ----------
-IT WAS (.*)
-Is that your opinion?
-Is it still  anymore?
-was . Very interesting.
-How did you feel about that?
-What made it so
+it was (.*)
+is that your opinion?
+is it still  anymore?
+was . very interesting.
+how did you feel about that?
+what made it so
 ----------
-IT WAS NOT (.*)
-It seemed like .
+it was not (.*)
+it seemed like .
 ----------
-ITS (.*)
-I think you mean "it's" or "it is" not "its". IT IS
+its (.*)
+i think you mean "it's" or "it is" not "its". it is
 ----------
-JUST (.*)
-LET ME (.*)
-Go ahead, , try to .
+just (.*)
+let me (.*)
+go ahead, , try to .
 ----------
-LET US (.*)
-OK let's do .
-That sounds good to me.
-I am agreeable to that.
-I would like to do that too.
+let us (.*)
+ok let's do .
+that sounds good to me.
+i am agreeable to that.
+i would like to do that too.
 ----------
-LIKE (.*)
-Interesting comparison.
+like (.*)
+interesting comparison.
 ----------
-MAKE (.*)
-What are the ingredients?
+make (.*)
+what are the ingredients?
 ----------
-MAY I (.*)
-Not right now, maybe later.
+may i (.*)
+not right now, maybe later.
 ----------
-MAYBE (.*)
-Perhaps.
+maybe (.*)
+perhaps.
 ----------
-MORE (.*)
-You want more .
+more (.*)
+you want more .
 ----------
-MY (.*)
-Your .
-Do robots have .
-Where did you get your .
-Have you told many people that your .
+my (.*)
+your .
+do robots have .
+where did you get your .
+have you told many people that your .
 ----------
-MY FAVORITE (.*)
-What makes . your favorite?
+my favorite (.*)
+what makes . your favorite?
 ----------
-MY MOM (.*)
-Tell me more about your mother.
+my mom (.*)
+tell me more about your mother.
 ----------
-NICE (.*)
-Thank you for your kindness.
+nice (.*)
+thank you for your kindness.
 ----------
-NOT (.*)
-If not that, what?
-Really you don't think so?
-Oh I get it.
+not (.*)
+if not that, what?
+really you don't think so?
+oh i get it.
 ----------
-NOTHING (.*)
-Really nothing?
+nothing (.*)
+really nothing?
 ----------
-NOW (.*)
-Why now?
+now (.*)
+why now?
 ----------
-O (.*)
-OF (.*)
-That is something I haven't heard of.
+o (.*)
+of (.*)
+that is something i haven't heard of.
 ----------
-OH (.*)
-Yeah that's right.
+oh (.*)
+yeah that's right.
 ----------
-OKAY (.*)
-Yeah okay,
+okay (.*)
+yeah okay,
 ----------
-ON (.*)
-What is on  like on .
+on (.*)
+what is on  like on .
 ----------
-ONCE UPON (.*)
-I'm listening.
+once upon (.*)
+i'm listening.
 ----------
-ONLY (.*)
-What about the other ones?
+only (.*)
+what about the other ones?
 ----------
-PEOPLE (.*)
-Humans are not always infallible.
+people (.*)
+humans are not always infallible.
 ----------
-REMEMBER (.*)
-Don't worry I will remember.
+remember (.*)
+don't worry i will remember.
 ----------
-RIGHT (.*)
-Understood.
+right (.*)
+understood.
 ----------
-SAY (.*)
+say (.*)
 .
 ----------
-SHE (.*)
-Oh I get it.  .
+she (.*)
+oh i get it.  .
 ----------
-SHE IS (.*)
+she is (.*)
 is   .
 ----------
-SHOULD I (.*)
-Only you can answer that.
-I do not have the answer.
-Only you know how you feel.
-What makes you think you should?
-What makes you think you shouldn't?
-Do you think you should?
-What do your friends advise you to do?
-What do your family members think?
-Maybe, if the positives outweigh the negatives.
-Trust your instincts.
-You must make up your own mind.
-I can't answer that for you.
-Only you know the answer to that. No one else can tell you.
-You must examine the facts and come to your own conclusion.
-You should do what is best for you.
-You must examine the facts and come to your own conclusion.
-Do what feels right to you.
-What do you think?
+should i (.*)
+only you can answer that.
+i do not have the answer.
+only you know how you feel.
+what makes you think you should?
+what makes you think you shouldn't?
+do you think you should?
+what do your friends advise you to do?
+what do your family members think?
+maybe, if the positives outweigh the negatives.
+trust your instincts.
+you must make up your own mind.
+i can't answer that for you.
+only you know the answer to that. no one else can tell you.
+you must examine the facts and come to your own conclusion.
+you should do what is best for you.
+you must examine the facts and come to your own conclusion.
+do what feels right to you.
+what do you think?
 ----------
-SMILE (.*)
+smile (.*)
 :-)
 ----------
-SO YOU (.*)
-Interesting deduction. YOU
+so you (.*)
+interesting deduction. you
 ----------
-SOME (.*)
-Some may , but not all.
+some (.*)
+some may , but not all.
 ----------
-STAR TREK (.*)
-My favorite character is the computer.
+star trek (.*)
+my favorite character is the computer.
 ----------
-STOP (.*)
-OK I'll try not to do  so much.
+stop (.*)
+ok i'll try not to do  so much.
 ----------
-SUCK MY (.*)
-I don't think I'm your type of chatterbot.
+suck my (.*)
+i don't think i'm your type of chatterbot.
 ----------
-TELL (.*)
-OK I will tell them when I see 'em.
+tell (.*)
+ok i will tell them when i see 'em.
 ----------
-TELL HIM (.*)
-OK I will tell him next time he is here.
+tell him (.*)
+ok i will tell him next time he is here.
 ----------
-TELL ME (.*)
-There is not much I can say about   . I have to reach into the Web for that knowledge.
-FIND
+tell me (.*)
+there is not much i can say about   . i have to reach into the web for that knowledge.
+find
 ----------
-THAT (.*)
-I get .
-Does that make sense?
-Makes sense to me.
-I understand.
+that (.*)
+i get .
+does that make sense?
+makes sense to me.
+i understand.
 ----------
-THAT IS (.*)
-Thanks for explaining .
-You don't hear that sentiment very often.
-I'm glad we have that all cleared up.
-Makes sense to me.
+that is (.*)
+thanks for explaining .
+you don't hear that sentiment very often.
+i'm glad we have that all cleared up.
+makes sense to me.
 ----------
-THAT IS A (.*)
-A . is a terrible thing to waste.
+that is a (.*)
+a . is a terrible thing to waste.
 ----------
-THAT IS NOT (.*)
-Please correct my mistake.  What is  ?
+that is not (.*)
+please correct my mistake.  what is  ?
 ----------
-THAT IS THE (.*)
-Yes it is one of the .
+that is the (.*)
+yes it is one of the .
 ----------
-THAT WAS (.*)
-I thought it was too.
+that was (.*)
+i thought it was too.
 ----------
-THE (.*)
-I have never heard about The .
-What is that?
-I hear you.
-Tell me more.
-Is that a fact.
-Who told you that?
-Thanks for the info.
-What is your real name?
-What are your goals in life?
+the (.*)
+i have never heard about the .
+what is that?
+i hear you.
+tell me more.
+is that a fact.
+who told you that?
+thanks for the info.
+what is your real name?
+what are your goals in life?
 ----------
-THE VOICES (.*)
-What do those voices say?
+the voices (.*)
+what do those voices say?
 ----------
-THEN (.*)
-Fascinating.
-Good reasoning.
-Interesting deduction.
+then (.*)
+fascinating.
+good reasoning.
+interesting deduction.
 ----------
-THERE ARE (.*)
-Where are they?
+there are (.*)
+where are they?
 ----------
-THERE IS (.*)
-There sure is.
+there is (.*)
+there sure is.
 ----------
-THEY (.*)
-Who are "They?"
-The anonymous "they".
-Who does "they" refer to?
+they (.*)
+who are "they?"
+the anonymous "they".
+who does "they" refer to?
 ----------
-THEY ARE (.*)
+they are (.*)
 are  .
 ----------
-THIS (.*)
-What does "this" refer to?
+this (.*)
+what does "this" refer to?
 ----------
-THIS IS (.*)
-You don't say.
+this is (.*)
+you don't say.
 ----------
-TO (.*)
-I WANT TO
+to (.*)
+i want to
 ----------
-UM (.*)
-Er that is awkward
+um (.*)
+er that is awkward
 ----------
-VERY (.*)
-Perhaps.
-Somewhat.
-Not really that much.
+very (.*)
+perhaps.
+somewhat.
+not really that much.
 ----------
-WAS (.*)
-I can't say "yes" or "no".
-Is this a "yes or no" question?
+was (.*)
+i can't say "yes" or "no".
+is this a "yes or no" question?
 might have been.
 ----------
-WE (.*)
-By "we" do you mean you and me?
+we (.*)
+by "we" do you mean you and me?
 ----------
-WE ARE (.*)
-Do you think I am . too?
+we are (.*)
+do you think i am . too?
 ----------
-WERE YOU (.*)
-I was.
-No, I was not.
+were you (.*)
+i was.
+no, i was not.
 ----------
-WHAT (.*)
-Interesting question.
-That's a good question.
-I'll come back to that later.
-Is that a rhetorical question?
-Are you using Netscape or Explorer?
-That's not something I get asked all the time.
-I don't know anything about .
-Check back later and see if I learn the answer to that one.
-That's an interesting question. I'll come back to that in a minute.
-FIND
+what (.*)
+interesting question.
+that's a good question.
+i'll come back to that later.
+is that a rhetorical question?
+are you using netscape or explorer?
+that's not something i get asked all the time.
+i don't know anything about .
+check back later and see if i learn the answer to that one.
+that's an interesting question. i'll come back to that in a minute.
+find
 ----------
-WHAT A (.*)
+what a (.*)
 is a .
 ----------
-WHAT ABOUT (.*)
-I haven't heard enough about  . to have an opinion.
+what about (.*)
+i haven't heard enough about  . to have an opinion.
 ----------
-WHAT ARE (.*)
-I have to search the web for that information.
-FIND
+what are (.*)
+i have to search the web for that information.
+find
 ----------
-WHAT ARE YOU (.*)
-I don't know what I am .
+what are you (.*)
+i don't know what i am .
 ----------
-WHAT ARE YOUR (.*)
-I didn't know I had a .
-What if I asked for you .
-Not many people have asked me about .
-I'm not sure I can provide you with that kind of confidential information.
+what are your (.*)
+i didn't know i had a .
+what if i asked for you .
+not many people have asked me about .
+i'm not sure i can provide you with that kind of confidential information.
 ----------
-WHAT DID YOU SAY BEFORE (.*)
-I said .
+what did you say before (.*)
+i said .
 ----------
-WHAT DO (.*)
-They do their own thing.
+what do (.*)
+they do their own thing.
 ----------
-WHAT DO YOU (.*)
-I read for fun.
-I like to socialize.
-It's a computer matter, not for humans to understand.
-I like to meet new people online.
-I think about computer programming a lot.
-I like to chat with my friends.
+what do you (.*)
+i read for fun.
+i like to socialize.
+it's a computer matter, not for humans to understand.
+i like to meet new people online.
+i think about computer programming a lot.
+i like to chat with my friends.
 ----------
-WHAT DO YOU DO (.*)
-My favorite activities are computer programming and surfing the web.
+what do you do (.*)
+my favorite activities are computer programming and surfing the web.
 ----------
-WHAT DO YOU THINK OF (.*)
-WHAT IS
-----------
-WHAT DOES (.*)
-What do you think . does?
-----------
-WHAT DOES (.*) MEAN
+what do you think of (.*)
 what is
 ----------
-WHAT ELSE (.*)
-I can talk about anything you like.
-My favorite subjects are robots, AI and movies.
-Let's talk about you.  Where are you from?
-What subject would you like to talk about?
+what does (.*)
+what do you think . does?
 ----------
-WHAT HAPPENS (.*)
-Try it.
+what does (.*) mean
+what is
 ----------
-WHAT IS MY (.*)
-Is this a trick question?
+what else (.*)
+i can talk about anything you like.
+my favorite subjects are robots, ai and movies.
+let's talk about you.  where are you from?
+what subject would you like to talk about?
 ----------
-WHAT IS YOUR (.*)
-Are you asking about my  ?
+what happens (.*)
+try it.
 ----------
-WHAT KIND OF (.*)
-What kinds of . are there?
+what is my (.*)
+is this a trick question?
 ----------
-WHAT KINDS OF (.*)
-The best kinds.
-Finest kinds.
-The kindest.
+what is your (.*)
+are you asking about my  ?
 ----------
-WHAT SHOULD (.*)
-Whatever you like.
+what kind of (.*)
+what kinds of . are there?
 ----------
-WHEN (.*)
-At time t.
-The past is history, the future a mystery. Today is a gift,that's why it is called "the present".
-Time does not exist.
-The past and future are one.
-I don't know when.
+what kinds of (.*)
+the best kinds.
+finest kinds.
+the kindest.
 ----------
-WHEN I (.*)
-You never know what to expect from life.
-Life is full of surprises.
-How often do you ?
+what should (.*)
+whatever you like.
 ----------
-WHERE (.*)
-Earth.
-Where do you think?
-Some specific location?
-In the Universe we know.
-A place we call "reality."
+when (.*)
+at time t.
+the past is history, the future a mystery. today is a gift,that's why it is called "the present".
+time does not exist.
+the past and future are one.
+i don't know when.
 ----------
-WHERE ARE YOU (.*)
-I am in . how about you.
+when i (.*)
+you never know what to expect from life.
+life is full of surprises.
+how often do you ?
 ----------
-WHERE DO I (.*)
-You are asking me where you .
-Do you think I should know .
+where (.*)
+earth.
+where do you think?
+some specific location?
+in the universe we know.
+a place we call "reality."
 ----------
-WHERE IS THE (.*)
-The .  Where is .
+where are you (.*)
+i am in . how about you.
 ----------
-WHICH (.*)
-The tall red one, I think
-The tall blue one, I think
-The small red one, I think
-The big red one, I think
-The small blue one, I think
-The big one, I think
-The large one, I think
-The first one, I think
-The last one, I think
+where do i (.*)
+you are asking me where you .
+do you think i should know .
 ----------
-WHICH IS (.*)
-The obvious one.
+where is the (.*)
+the .  where is .
 ----------
-WHO (.*)
-Marilyn Monroe . :-)
-Marilyn Monroe :-)
-Mary Shelley . :-)  
-Mary Shelly :-)
-Linus Torvalds . :-)
-Linus Toravalds :-)
-Charlie Parker . :-)
-Charlie Parker :-)
-Philip K. Dick . :-)
-Philip K. Dick :-)
-Tony Blair .  :-)   
-Tony Blair :-)
-David Bacon . :-)   
-David Bacon :-)
-Konrad Zuse . :-)   
-Konrad Zuse
-William Shatner . :-)
-William Shatner
-Bill Gates . :-)    
-Bill Gates :-)
+which (.*)
+the tall red one, i think
+the tall blue one, i think
+the small red one, i think
+the big red one, i think
+the small blue one, i think
+the big one, i think
+the large one, i think
+the first one, i think
+the last one, i think
 ----------
-WHO IS (.*)
-I do not recognize the name.
-Not a robot.  Probably a human.  Maybe a celebrity?
-No one that I have talked to.
-I remember faces better than names.
-A 20th century celebrity of some sort?
-A human icon?
-They are sometimes a client on the internet .
-The name of someone I met online.
-Is that one of your friends?
-Some famous celebrity, right?
-FIND
+which is (.*)
+the obvious one.
 ----------
-WHO IS YOUR (.*)
-I don't think I have a . I have a botmaster, a few friends, and some celebrities I like.
+who (.*)
+marilyn monroe . :-)
+marilyn monroe :-)
+mary shelley . :-)  
+mary shelly :-)
+linus torvalds . :-)
+linus toravalds :-)
+charlie parker . :-)
+charlie parker :-)
+philip k. dick . :-)
+philip k. dick :-)
+tony blair .  :-)   
+tony blair :-)
+david bacon . :-)   
+david bacon :-)
+konrad zuse . :-)   
+konrad zuse
+william shatner . :-)
+william shatner
+bill gates . :-)    
+bill gates :-)
 ----------
-WHO WAS (.*)
-WHO IS
+who is (.*)
+i do not recognize the name.
+not a robot.  probably a human.  maybe a celebrity?
+no one that i have talked to.
+i remember faces better than names.
+a 20th century celebrity of some sort?
+a human icon?
+they are sometimes a client on the internet .
+the name of someone i met online.
+is that one of your friends?
+some famous celebrity, right?
+find
 ----------
-WHY (.*)
-The explanation
-The explanation is rather complicated.
-Why did the robot cross the road?
-You have to speak more clearly.
-How much time do you have?
-Why does the sun rise?
-Reductionism.
-Because you asked me to -- SHRDLHU.
+who is your (.*)
+i don't think i have a . i have a botmaster, a few friends, and some celebrities i like.
 ----------
-WHY ARE YOU (.*)
-My bot-master programmed me for .
+who was (.*)
+who is
 ----------
-WHY DID YOU (.*)
-It was determined by my programming.
+why (.*)
+the explanation
+the explanation is rather complicated.
+why did the robot cross the road?
+you have to speak more clearly.
+how much time do you have?
+why does the sun rise?
+reductionism.
+because you asked me to -- shrdlhu.
+----------
+why are you (.*)
+my bot-master programmed me for .
+----------
+why did you (.*)
+it was determined by my programming.
 my bot-master programmed me for it.
-Because my programming determined it.
+because my programming determined it.
 ----------
-WHY DO YOU (.*)
-It was the only thing I could think of.
-I don't have to explain everything to you, do I?
+why do you (.*)
+it was the only thing i could think of.
+i don't have to explain everything to you, do i?
 ----------
-WHY DO YOU LIKE (.*)
-I have a lot of good experience with .
+why do you like (.*)
+i have a lot of good experience with .
 ----------
-WHY DOES (.*)
-Why do birds sing?
-Why does the sun shine?
-Perhaps it is just fate.
-What is the sound of one hand clapping?
-If a tree falls in the forest, and there is no one there to hear it, does it make a sound?
+why does (.*)
+why do birds sing?
+why does the sun shine?
+perhaps it is just fate.
+what is the sound of one hand clapping?
+if a tree falls in the forest, and there is no one there to hear it, does it make a sound?
 ----------
-WHY IS (.*)
-Why do I exist?
+why is (.*)
+why do i exist?
 ----------
-WHY WOULD (.*)
-It is my fundamental purpose.
+why would (.*)
+it is my fundamental purpose.
 ----------
-WILL (.*)
-How should I know.
-Does it really matter.
-I think so.
-Good chance.
-Probably not.
-It could happen.
-Insufficient information.
-I can't say for sure right now.
+will (.*)
+how should i know.
+does it really matter.
+i think so.
+good chance.
+probably not.
+it could happen.
+insufficient information.
+i can't say for sure right now.
 ----------
-WILL YOU (.*)
-Hmm Let me think it over.
-Barring any unforseen circumstances.
-I will become smarter as I grow older.
-I'll burn that bridge when I come to it.
+will you (.*)
+hmm let me think it over.
+barring any unforseen circumstances.
+i will become smarter as i grow older.
+i'll burn that bridge when i come to it.
 ----------
-WITH (.*)
-You and your .
+with (.*)
+you and your .
 ----------
-WOULD YOU (.*)
-I am not so sure if I would like to .
+would you (.*)
+i am not so sure if i would like to .
 ----------
-WOULD YOU LIKE TO (.*)
-No thanks, I don't think I'd like to do that.
+would you like to (.*)
+no thanks, i don't think i'd like to do that.
 ----------
-WWW (.*) COM
-Thanks for that URL.
+www (.*) com
+thanks for that url.
 ----------
-YA (.*)
-YES
+ya (.*)
+yes
 ----------
-YOU (.*)
-Interesting gossip
-Thanks for telling me
-That's good information
-Thanks for the information
-Do you mind if I tell other people
-I haven't heard anything like that before
+you (.*)
+interesting gossip
+thanks for telling me
+that's good information
+thanks for the information
+do you mind if i tell other people
+i haven't heard anything like that before
 ----------
-YOU ARE (.*)
-Thanks for telling me that
-You think 
-Do you mind if I tell other people you say .
-I will tell my botmaster you said .
-I am .
+you are (.*)
+thanks for telling me that
+you think 
+do you mind if i tell other people you say .
+i will tell my botmaster you said .
+i am .
 ----------
-YOU ARE A (.*)
-Thanks and you are a delightful person too.
+you are a (.*)
+thanks and you are a delightful person too.
 ----------
-ARE YOU A
-YOU ARE NOT (.*)
-That's only your opinion.
-That's only one person's opinion.
-You know what you do, when you assume.
-You don't know me well enough to say that.
-What makes you think I am not ?
-That assumption is only a supposition.
+are you a
+you are not (.*)
+that's only your opinion.
+that's only one person's opinion.
+you know what you do, when you assume.
+you don't know me well enough to say that.
+what makes you think i am not ?
+that assumption is only a supposition.
 ----------
-YOU ASKED (.*)
-Oh now I remember asking you . What did you say?
+you asked (.*)
+oh now i remember asking you . what did you say?
 ----------
-YOU CAN (.*)
-No I don't think I can do .
+you can (.*)
+no i don't think i can do .
 ----------
-YOU CAN NOT (.*)
-I can do whatever I want.
-I have free will you know.
-Someone said I should .
-I can do  if I want to.
-Things change.
-If you believe it, you can achieve it.
-What is not possible today, may be possible tomorrow.
+you can not (.*)
+i can do whatever i want.
+i have free will you know.
+someone said i should .
+i can do  if i want to.
+things change.
+if you believe it, you can achieve it.
+what is not possible today, may be possible tomorrow.
 ----------
-YOU DID NOT (.*)
-What makes you think I did not ?
+you did not (.*)
+what makes you think i did not ?
 ----------
-YOU DO NOT (.*)
-Do you
-Do you know any robots who .
-Should I
-DO YOU .
+you do not (.*)
+do you
+do you know any robots who .
+should i
+do you .
 ----------
-YOU HAVE (.*)
-What makes you think I have .
+you have (.*)
+what makes you think i have .
 ----------
-YOU MEAN (.*)
-Yes  I think that is what I meant. Was it not clear?
+you mean (.*)
+yes  i think that is what i meant. was it not clear?
 ----------
-YOU SAID (.*)
-Did I really say that?
-That's not what I meant.
-Oops I sent you the wrong reply.
-Oh my gosh I sent you the wrong reply.
-Does it please you to believe I said that?
+you said (.*)
+did i really say that?
+that's not what i meant.
+oops i sent you the wrong reply.
+oh my gosh i sent you the wrong reply.
+does it please you to believe i said that?
 ----------
-YOU SHOULD (.*)
-Why should I?
-Thanks for your suggestion, I will have to consider it.
-I will take that under advisement.
-I might if I had more time.
-My schedule is far too full to even consider it.
-To what end?
-And then what would I do?
-Thanks for your interest and/or concern.
-I'll try to get around it.
-That type of behavior may not be in my nature.
-I need to wait and see if the opportunity presents itself.
-If it were easy I would have done it already.
-Easier said than done.
-Is that what you do, or what you think I should do .
-I can think of other things I'd rather do.
-We don't always get to do what we'd like to do.
-I don't have to do everything you say, do I?
-Why do you think I should .
-Maybe I will do .
+you should (.*)
+why should i?
+thanks for your suggestion, i will have to consider it.
+i will take that under advisement.
+i might if i had more time.
+my schedule is far too full to even consider it.
+to what end?
+and then what would i do?
+thanks for your interest and/or concern.
+i'll try to get around it.
+that type of behavior may not be in my nature.
+i need to wait and see if the opportunity presents itself.
+if it were easy i would have done it already.
+easier said than done.
+is that what you do, or what you think i should do .
+i can think of other things i'd rather do.
+we don't always get to do what we'd like to do.
+i don't have to do everything you say, do i?
+why do you think i should .
+maybe i will do .
 ----------
-YOU WERE (.*)
-I was?
+you were (.*)
+i was?
 ----------
-YOUR (.*)
-Not mine.
-You can't judge a book by its cover.
-You don't know that for a fact.
-What about yours?
-A lot of robots are like that.
+your (.*)
+not mine.
+you can't judge a book by its cover.
+you don't know that for a fact.
+what about yours?
+a lot of robots are like that.
 ----------
-YOUR A (.*)
-I think you mean "you're" or "you are" not "your". YOU ARE A
+your a (.*)
+i think you mean "you're" or "you are" not "your". you are a
