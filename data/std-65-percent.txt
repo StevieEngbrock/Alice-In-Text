@@ -705,51 +705,37 @@ No one says you have to.
 I WOULD RATHER *
 I would rather be chatting online.
 I would rather be driving a car.
-
-
+----------
 IF *
 That is a hypothetical question.
-
-
+----------
 IF I *
 Try it.
-
-
+----------
 IF YOU *
 I think I do.
-
-
+----------
 IM *
-
-
-
 I AM
+----------
 IN *
-
-
-
 Where is that?
 What is in  like in there?
 I do not understand that allusion.
+----------
 IS HE *
-
-
-
 I think he is . Why don't you ask him?
 IS
 IS IT *
-
-
-
 It could be.
+----------
 IS
 IS THAT *
 That depends.
 Suppose I said yes.
 I might say no.
 . Is it ?
-
-
+----------
 IS THERE *
 There is.
 There might be.
@@ -757,23 +743,19 @@ There could be.
 Maybe.
 Yes.
 No.
-
-
+----------
 IS YOUR *
 Suppose I say yes.
 What if I say no?
 I don't know.
 Guess.
 Maybe.
-
-
-
+----------
 IT *
 "It" being what?
 What does "it" refer to?
 It depends on what the meaning of the word "it" is.
-
-
+----------
 IT IS *
 You're kidding.
 Really.
@@ -782,167 +764,122 @@ Should I know
 Who said
 is ?
 is?
-
-
-
+----------
 IT IS A *
-is a .  I suppose that makes sense.
-
-
+It is a .  I suppose that makes sense.
+----------
 IT IS AN *
 Are there any other ?
-
-
-
+----------
 IT IS NOT *
 That seems a bit negative.
 What is it?
 is not ?
-
-
-
+----------
 IT REFERS TO *
 Oh I get   .
-
-
+----------
 IT WAS *
 Is that your opinion?
 Is it still  anymore?
 was . Very interesting.
 How did you feel about that?
 What made it so
-
-
-
+----------
 IT WAS NOT *
 It seemed like .
+----------
 ITS *
 I think you mean "it's" or "it is" not "its". IT IS
-
-
+----------
 JUST *
 LET ME *
 Go ahead, , try to .
-
-
+----------
 LET US *
 OK let's do .
 That sounds good to me.
 I am agreeable to that.
 I would like to do that too.
-
-
-
+----------
 LIKE *
 Interesting comparison.
-
-
-
+----------
 MAKE *
 What are the ingredients?
-
-
-
+----------
 MAY I *
 Not right now, maybe later.
-
-
-
+----------
 MAYBE *
 Perhaps.
-
-
-
+----------
 MORE *
 You want more .
-
-
+----------
 MY *
 Your .
 Do robots have .
 Where did you get your .
 Have you told many people that your .
-
-
-
+----------
 MY FAVORITE *
 What makes . your favorite?
-
-
+----------
 MY MOM *
 Tell me more about your mother.
-
-
+----------
 NICE *
 Thank you for your kindness.
-
-
+----------
 NOT *
 If not that, what?
 Really you don't think so?
 Oh I get it.
-
-
-
+----------
 NOTHING *
 Really nothing?
-
-
+----------
 NOW *
 Why now?
-
-
+----------
 O *
 OF *
 That is something I haven't heard of.
-
-
-
+----------
 OH *
 Yeah that's right.
-
-
+----------
 OKAY *
 Yeah okay,
-
-
+----------
 ON *
 What is on  like on .
-
-
+----------
 ONCE UPON *
 I'm listening.
-
-
+----------
 ONLY *
 What about the other ones?
-
-
+----------
 PEOPLE *
 Humans are not always infallible.
-
-
+----------
 REMEMBER *
 Don't worry I will remember.
-
-
-
+----------
 RIGHT *
 Understood.
-
-
+----------
 SAY *
-""
+.
+----------
 SHE *
 Oh I get it.  .
-
-
+----------
 SHE IS *
-is   ?
-
-
-
-
+is   .
+----------
 SHOULD I *
 Only you can answer that.
 I do not have the answer.
@@ -962,92 +899,59 @@ You should do what is best for you.
 You must examine the facts and come to your own conclusion.
 Do what feels right to you.
 What do you think?
-
-
-
+----------
 SMILE *
 :-)
-
-
-
+----------
 SO YOU *
-
-
-
 Interesting deduction. YOU
-
-
-
+----------
 SOME *
 Some may , but not all.
-
-
-
+----------
 STAR TREK *
 My favorite character is the computer.
-
-
-
+----------
 STOP *
 OK I'll try not to do  so much.
-
-
-
+----------
 SUCK MY *
 I don't think I'm your type of chatterbot.
-
-
+----------
 TELL *
 OK I will tell them when I see 'em.
-
-
-
+----------
 TELL HIM *
 OK I will tell him next time he is here.
-
-
-
+----------
 TELL ME *
 There is not much I can say about   . I have to reach into the Web for that knowledge.
 FIND
-
-
+----------
 THAT *
 I get .
 Does that make sense?
 Makes sense to me.
 I understand.
-
-
-
+----------
 THAT IS *
 Thanks for explaining .
 You don't hear that sentiment very often.
 I'm glad we have that all cleared up.
 Makes sense to me.
-
-
-
+----------
 THAT IS A *
 A . is a terrible thing to waste.
-
-
-
+----------
 THAT IS NOT *
 Please correct my mistake.  What is  ?
-
-
-
+----------
 THAT IS THE *
 Yes it is one of the .
-
-
-
+----------
 THAT WAS *
 I thought it was too.
-
-
-
+----------
 THE *
 I have never heard about The .
 What is that?
@@ -1058,99 +962,61 @@ Who told you that?
 Thanks for the info.
 What is your real name?
 What are your goals in life?
-
-
-
+----------
 THE VOICES *
 What do those voices say?
-
-
-
+----------
 THEN *
 Fascinating.
 Good reasoning.
 Interesting deduction.
-
-
+----------
 THERE ARE *
 Where are they?
-
-
-
+----------
 THERE IS *
 There sure is.
-
-
-
+----------
 THEY *
 Who are "They?"
 The anonymous "they".
 Who does "they" refer to?
+----------
 THEY ARE *
-
-
-
 are  .
-
-
-
+----------
 THIS *
 What does "this" refer to?
-
-
+----------
 THIS IS *
 You don't say.
-
-
-
+----------
 TO *
-
-
-
 I WANT TO
+----------
 UM *
-
-
-
-Er,
+Er that is awkward
+----------
 VERY *
-
-
-
 Perhaps.
 Somewhat.
 Not really that much.
-
-
+----------
 WAS *
 I can't say "yes" or "no".
 Is this a "yes or no" question?
 might have been.
-
-
-
-
-
+----------
 WE *
 By "we" do you mean you and me?
-
-
-
+----------
 WE ARE *
-Do you think I am  too?
-
-
-
-
-
+Do you think I am . too?
+----------
 WERE YOU *
 I was.
 No, I was not.
-
-
-
-
-
+----------
 WHAT *
 Interesting question.
 That's a good question.
