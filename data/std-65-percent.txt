@@ -1,4 +1,4 @@
-A *
+a (.*)
 Go on.
 How old are you?
 Be more specific.
@@ -9,13 +9,13 @@ Try to tell me that another way.
 Are you talking about an animal, vegetable or mineral?
 What is it?
 ----------
-A LOT OF *
+a lot of (.*) 
 How many?
 ----------
-ABOUT *
+about *
 Oh yeah, we were talking about .
 ----------
-ALL *
+all (.*)
 I think there are a few exceptions.
 Not all of them?
 That is a rather sweeping generalization.
