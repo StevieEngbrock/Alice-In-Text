@@ -1,12 +1,12 @@
 a (.*)
-Go on.
-How old are you?
-Be more specific.
-I did not know that.
-Are you telling the truth?
-I don't know what that means.
-Try to tell me that another way.
-Are you talking about an animal, vegetable or mineral?
+go on.
+how old are you?
+be more specific.
+i did not know that.
+are you telling the truth?
+i don't know what that means.
+try to tell me that another way.
+are you talking about an animal, vegetable or mineral?
 what is it?
 ----------
 alot of (.*)
@@ -235,7 +235,7 @@ i like chatting with people online.
 what is it like?
 ----------
 do you like to (.*)
-hmm, , i'm not sure if i'd like to  that much.
+hmm, i'm not sure if i'd like to  that much.
 i like to chat.
 do you like ?
 what is it like?
@@ -294,8 +294,15 @@ why are you using that kind of language?
 get (.*)
 where can i get ?
 ----------
+i want (.*)
+we can't always get what we want
+people in hell want i
+why do you want .
+----------
 give me (.*)
-i want
+where would i get .
+i would if i get .
+why do you want .
 ----------
 go (.*)
 where is that?
