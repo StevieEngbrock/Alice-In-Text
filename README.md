@@ -6,8 +6,8 @@ For more about Alice visit https://en.wikipedia.org/wiki/Artificial_Linguistic_I
 
 # The Main Idea
 
-The idea is to be able to use plain vanilla text stored in .txt files to store the
-data for a bot so you don't need an AIML interpreter, and so you can make a bot
+The idea is to be able to use plain vanilla text stored in .txt (or possible YAML or JSON) 
+files to store the data for a bot so you don't need an AIML interpreter, and so you can make a bot
 using the Alicebot data, but not be limited by the specifications of AIML.
 
 A text file is easily edited and the goal is to only need regular expressions and/or
